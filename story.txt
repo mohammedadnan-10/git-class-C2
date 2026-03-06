@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Write your answers here!
 this is devops lab
+=======
+hello welcome to nano
+
+>>>>>>> 5899063 (Add story 1 line by sanjana)
